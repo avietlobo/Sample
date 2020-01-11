@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20262" started-at="2020-01-11T19:20:37 IST" finished-at="2020-01-11T19:20:57 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20262" started-at="2020-01-11T19:20:37 IST" finished-at="2020-01-11T19:20:57 IST">
+      <class name="com.qa.tests.BookFlightTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.tests.BookFlightTest@610694f1]" name="setup" is-config="true" duration-ms="15455" started-at="2020-01-11T19:20:37 IST" finished-at="2020-01-11T19:20:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="bookFlight()[pri:0, instance:com.qa.tests.BookFlightTest@610694f1]" name="bookFlight" duration-ms="4051" started-at="2020-01-11T19:20:52 IST" finished-at="2020-01-11T19:20:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookFlight -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.BookFlightTest@610694f1]" name="tearDown" is-config="true" duration-ms="716" started-at="2020-01-11T19:20:57 IST" finished-at="2020-01-11T19:20:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.BookFlightTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
