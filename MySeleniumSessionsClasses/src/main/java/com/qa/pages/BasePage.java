@@ -18,6 +18,8 @@ public class BasePage {
 	{
 		
 		
+		
+		
 		  ChromeOptions options = new ChromeOptions();
 		  options.addArguments("--incognito"); DesiredCapabilities capabilities =
 		  DesiredCapabilities.chrome();
